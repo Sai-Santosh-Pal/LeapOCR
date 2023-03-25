@@ -13,8 +13,8 @@
 - Useful ✨
 
 ## Statistics 📊
--- Accuracy: 95%
--- Run Time: 7-10 Seconds 
+- Accuracy: 95%
+- Run Time: 7-10 Seconds 
 
 ## Contact 👨🏻‍💻
 - Follow On Instagram - [@ssntshpal](https://www.instagram.com/ssntshpl/)
